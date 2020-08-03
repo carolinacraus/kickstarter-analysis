@@ -9,6 +9,9 @@ The main purpose was to use Excel to analyze different Kickstarter fundraising c
 
 ## Analysis and Challenges
 
+
+First, I separated the "Category and Subcategory" column into two separate columns called "Parent" and "Subcategory" in order to help us get a more in-depth look at the data/ In addition, I created two other columns called "Date Created Conversion" and "Date Ended Conversion" in which we used the given Unix timestamps and converted them into Short Date form to display the launch dates of the fundraisers. While the formula and conversion aspect of this part was not challenging, I still have trouble wrapping my mind around the concept of the Unix timestamps so I do not quite understand when an instance in which Unix timestamps would be more useful to use. 
+
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
