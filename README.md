@@ -5,7 +5,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Purpose
 
-The main purpose was to use Excel to analyze different Kickstarter fundraising campaigns to compare them in relation to their launch dates and funding goals in order to give Louise information and insights to help her plan and set up her first crowdfunding campaign to help her fund her play "Fever." In order to do this, we needed to organize, sort, analyze crowdfunding data wanted create visualizations based on our findings. 
+The main purpose was to use Excel to analyze different Kickstarter fundraising campaigns to compare them in relation to their launch dates and funding goals in order to uncover trends and help the client to adjust its future campaign projects in the U.S. and Great Britain for the best results. In order to do this, we needed to organize, sort, analyze crowdfunding data wanted create visualizations based on our findings. 
 
 ## Analysis and Challenges
 
